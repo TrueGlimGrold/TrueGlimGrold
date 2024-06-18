@@ -20,3 +20,8 @@ I'm <Luke Bullock>, a student at Brigham Young University-Idaho interested in Da
 - Here is my [LinkedIn](www.linkedin.com/in/luke-b-bullock) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/username=trueglimgrold&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/username=trueglimgrold&langs_count=5&theme=tokyonight)]()
+

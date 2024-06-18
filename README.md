@@ -1,16 +1,22 @@
-## Hi there 👋
+# <Luke Bullock>
 
-<!--
-**TrueGlimGrold/TrueGlimGrold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm <Luke Bullock>, a student at Brigham Young University-Idaho interested in Data Science, Machine Learning, Web Design, Application development, and Game Development. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm Currently studying for a bachelor's degree in software development. My most anticipated class is my senior project next semester. I plan to code a full-fledged 2D game using the Unity game engine. 
+- My goal is to create more flexibility in my career by being able to work remotely while traveling. After school, I plan to specialize in a field. Likely windows application development, and brush up on all the hard skills required for interviews.
+- You can ask me about the fundamentals of building a videogame, if you want. 
+
+## Technologies and Tools
+
+- Proficient in: Python, CSS, HTML, Javascript, C#, SQL. 
+- Skills: Web frontend development, Game development, and Project planning. 
+
+## Let's Connect!
+
+- Here is my [LinkedIn](www.linkedin.com/in/luke-b-bullock) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀

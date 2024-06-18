@@ -22,6 +22,6 @@ I'm <Luke Bullock>, a student at Brigham Young University-Idaho interested in Da
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/username=trueglimgrold&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/username=trueglimgrold&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=trueglimgrold&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=trueglimgrold&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 

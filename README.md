@@ -25,5 +25,5 @@ Feel free to explore my repositories and don't hesitate to reach out. Happy codi
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=trueglimgrold&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=trueglimgrold&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=trueglimgrold&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 

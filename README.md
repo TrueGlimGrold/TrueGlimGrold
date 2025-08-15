@@ -2,11 +2,11 @@
 
 Hello, GitHub! 👋
 
-I'm <Luke Bullock>, a student at Brigham Young University-Idaho interested in Data Science, Machine Learning, Web Design, Application development, and Game Development. Welcome to my GitHub profile!
+I'm <Luke Bullock>, a recent graduate from Brigham Young University-Idaho interested in Data Science, Machine Learning, Web Design, Application development, and Game Development. Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm Currently studying for a bachelor's degree in software development. My most anticipated class is my senior project next semester. I plan to code a full-fledged 2D game using the Unity game engine. 
+- After having completed my bachelors degree, I continue to hone my skills. I am currently working on three masterclasses in the udemy platform. Including web design using the MERN stack, the fundamentals of C#, as well as data structures and algorythums. 
 - My goal is to create more flexibility in my career by being able to work remotely while traveling. After school, I plan to specialize in a field. Likely windows application development, and brush up on all the hard skills required for interviews.
 - You can ask me about the fundamentals of building a videogame, if you want. 
 

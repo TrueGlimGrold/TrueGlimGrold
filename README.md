@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-I'm **Luke Bullock**, a recent graduate from Brigham Young University-Idaho interested in Data Science, Machine Learning, Web Design, Application development, and Game Development. Welcome to my GitHub profile!
+I'm **Luke Bullock**, having graduated from Brigham Young University-Idaho interested in Data Science, Machine Learning, Web Design, Application development, and Game Development. Welcome to my GitHub profile!
 
 ## About Me
 
